@@ -209,7 +209,7 @@ class _TeacherPanelScreenState extends State<TeacherPanelScreen> {
                             SizedBox(
                               height: 300,
                               child: GridView.count(
-                              crossAxisCount: 2,
+                                crossAxisCount: 2,
                               crossAxisSpacing: 15,
                               mainAxisSpacing: 15,
                               children: [
